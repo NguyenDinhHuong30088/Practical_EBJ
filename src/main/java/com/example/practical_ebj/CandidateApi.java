@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
-@RequestMapping(path = "api/V1/cadidate")
+@RequestMapping(path = "api/v1/cadidates")
 public class CandidateApi {
 
     @Autowired
